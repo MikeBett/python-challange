@@ -1,0 +1,10 @@
+PyBank Analysis
+--------------------------
+Total Profits: 38382578
+---------------------------
+Greatest increase in Profits: 1926159
+Greatest decrease in losses: -2196167
+---------------------------
+Average Profit Change: 446308.0465116279
+---------------------------
+Total Number of Months: 86
